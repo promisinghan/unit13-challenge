@@ -1,4 +1,4 @@
-> # Power of the Cloud and Unsupervised Learning (AWS_Lex_roboadvisor)
+> # Power of the Cloud and Unsupervised Learning (AWS-Lex_roboadvisor)
 # Unit 13 | Robo Advisor for Retirement Plans
 
 ## Background
@@ -21,6 +21,6 @@ It is time to take what you have learned about unsupervised learning and the AWS
 
 >Let's do it!
 
-![Robo Advisor](https://images.unsplash.com/photo-1602007503586-5df8cdb2c692?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80 "Let's build Robo Advisor for retirement plans!")
+![Robo Advisor](https://images.pexels.com/photos/4099388/pexels-photo-4099388.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 "Let's build Robo Advisor for retirement plans!")
 
-*[by Senad Palic](https://unsplash.com/photos/hqSIdyrFAT0)*
+*Photo by [Taryn Elliott](https://www.pexels.com/@taryn-elliott) from [Pexels](https://www.pexels.com/photo/laptop-on-bed-near-the-balcony-4099388/) / [Free License](https://www.pexels.com/license/)*
